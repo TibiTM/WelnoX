@@ -1,82 +1,107 @@
-![OptiMax](https://cdn.modrinth.com/data/cached_images/c0562d2c64eeb7b4cd91ac2a3031ec461569ef2f.png)
-![maxout](https://cdn.modrinth.com/data/cached_images/55e73a1afb2405b6f5250253b8b3cf7a983cb4af.png)
+<p align="center">
+  <img src="https://cdn.modrinth.com/data/cached_images/c0562d2c64eeb7b4cd91ac2a3031ec461569ef2f.png" alt="OptiMax" />
+  <br/>
+  <img src="https://cdn.modrinth.com/data/cached_images/55e73a1afb2405b6f5250253b8b3cf7a983cb4af.png" alt="Max Out" />
+</p>
 
 ---
 
-#### ⚡ **Optimize Your Gameplay Like Never Before And Max Out The Game!**  
-Tired of lag and stuttering? The **OptiMax Modpack** is designed to **boost FPS**, **reduce latency**, and **enhance stability** while keeping your game looking great and vanilla-like!  
+### ⚡️ **Optimize Your Gameplay. Max It Out.**
+Tired of lag, stutters, and annoying frame drops?  
+**OptiMax** is your all-in-one **performance-focused modpack** designed to deliver buttery smooth gameplay — without sacrificing the vanilla Minecraft feel.
 
 ---
 
-### **🛠 Features:**  
-✅ **FPS Boosting** 
-- – Optimized rendering and performance tweaks  
-
-✅ **Low Latency Optimizations** 
-- – Faster chunk loading and smoother gameplay  
-
-✅ **Memory Management** 
-- – Efficient RAM usage for better stability  
-
-✅ **Lightweight & Compatible** 
-- – Works seamlessly with most mods and servers  
-
-✅ **Config Tweaks** 
-- – Pre-optimized settings for the best experience  
+### 📌 **What is OptiMax?**
+A lightweight and compatible modpack engineered to:
+- 🔼 **Boost FPS**
+- 🧠 **Reduce memory usage**
+- 🎯 **Enhance responsiveness**
+- 🔄 **Maintain visual fidelity**
 
 ---
 
-### **🚀 Recommended for:**  
-🎮 **Low-end PCs** 
-- – Get the best performance on weaker hardware  
+### 🗂 **Supported Versions**
+✅ **Minecraft Loader & Versions:**  
+- Full support for all listed versions  
+- 🔧 Updates maintained from **1.21.4** onward only
 
-💻 **Mid-range Setups** 
-- – Maximize your FPS with smart optimizations  
+---
 
-🖥 **High-end Rigs** 
-- – Push your system to its full potential  
+### 🔧 **Core Features**
+✅ **FPS Optimized**  
+– Tweaked rendering, async processes, faster tick handling  
 
-### 🔧 **Fine-tuned for a smooth and responsive gameplay experience!**  
+✅ **Latency Reduction**  
+– Rapid chunk loading and input responsiveness  
 
-- -->📥 **Download now and feel the difference!**
+✅ **Smart Memory Use**  
+– Lower RAM footprint for smoother sessions  
+
+✅ **Plug-and-Play Compatibility**  
+– Plays nice with most mods & servers  
+
+✅ **Pre-tuned Configs**  
+– No need to mess with settings — we did it for you!
+
+---
+
+### 🖥️ **Who Is It For?**
+
+| 💻 Hardware     | 🎯 What You Get                       |
+|----------------|---------------------------------------|
+| Low-end PCs    | Huge FPS gains with minimal impact    |
+| Mid-range rigs | Unlocked performance potential        |
+| High-end setups| Max out the game engine's true power  |
+
+> 🎮 **Perfect for PvP, survival, or large servers!**
+
+---
+
+### 📥 **Ready to level up your gameplay?**  
+👉 **[Download OptiMax Now](https://modrinth.com/modpack/woptimax/versions)** and feel the difference instantly.
+
+---
 
 <details>
-  <summary>Used mods</summary>
-  <p><a href="https://modrinth.com/mod/betterf3">BetterF3</a></p>
-  <p><a href="https://modrinth.com/mod/capes">Capes</a></p>
-  <p><a href="https://modrinth.com/mod/clumps">Clumps</a></p>
-  <p><a href="https://modrinth.com/mod/continuity">Continuity</a></p>
-  <p><a href="https://modrinth.com/mod/dynamic-fps">DynamicFPS</a></p>
-  <p><a href="https://modrinth.com/mod/emoji-type">Emoji Type</a></p>
-  <p><a href="https://modrinth.com/mod/ebe">Enhanced Block Entities</a></p>
-  <p><a href="https://modrinth.com/mod/entityculling">Entity Culling</a></p>
-  <p><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></p>
-  <p><a href="https://modrinth.com/mod/fabric-language-kotlin">Fabric Language Kotlin</a></p>
-  <p><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a></p>
-  <p><a href="https://modrinth.com/mod/forge-config-api-port">Forge Config API Port</a></p>
-  <p><a href="https://modrinth.com/mod/freelook">Freelook</a></p>
-  <p><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a></p>
-  <p><a href="https://modrinth.com/mod/indium">Indium</a></p>
-  <p><a href="https://modrinth.com/mod/iris">Iris Shaders</a></p>
-  <p><a href="https://modrinth.com/mod/krypton">Krypton</a></p>
-  <p><a href="https://modrinth.com/mod/language-reload">Language Reload</a></p>
-  <p><a href="https://modrinth.com/mod/lazydfu">LazyDFU</a></p>
-  <p><a href="https://modrinth.com/mod/lithium">Lithium</a></p>
-  <p><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></p>
-  <p><a href="https://modrinth.com/mod/modern-ui">Modern UI</a></p>
-  <p><a href="https://modrinth.com/mod/modernfix">ModernFix</a></p>
-  <p><a href="https://modrinth.com/mod/morechathistory">More Chat History</a></p>
-  <p><a href="https://modrinth.com/mod/moreculling">More Culling</a></p>
-  <p><a href="https://modrinth.com/mod/noisium">Noisium</a></p>
-  <p><a href="https://modrinth.com/mod/optigui">OptiGUI</a></p>
-  <p><a href="https://modrinth.com/mod/reeses-sodium-options">Reese's Sodium Options</a></p>
-  <p><a href="https://modrinth.com/mod/rrls">Remove Reloading Screen</a></p>
-  <p><a href="https://modrinth.com/mod/screenshot-to-clipboard">Screenshot to Clipboard</a></p>
-  <p><a href="https://modrinth.com/mod/sodium">Sodium</a></p>
-  <p><a href="https://modrinth.com/mod/sodium-extra">Sodium Extra</a></p>
-  <p><a href="https://modrinth.com/mod/vmp-fabric">Very Many Players</a></p>
-  <p><a href="https://modrinth.com/mod/whoami">Who am I?</a></p>
-  <p><a href="https://modrinth.com/mod/yacl">YetAnotherConfigLib</a></p>
-  <p><a href="https://modrinth.com/mod/yosbr">Your Options Shall Be Respected</a></p>
-  <p><a href="https://modrinth.com/mod/zoomify">Zoomify</a></p>
+  <summary>📦 Included Mods (with others added in updates)</summary>
+
+- [BetterF3](https://modrinth.com/mod/betterf3)  
+- [Capes](https://modrinth.com/mod/capes)  
+- [Clumps](https://modrinth.com/mod/clumps)  
+- [Continuity](https://modrinth.com/mod/continuity)  
+- [DynamicFPS](https://modrinth.com/mod/dynamic-fps)  
+- [Emoji Type](https://modrinth.com/mod/emoji-type)  
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe)  
+- [Entity Culling](https://modrinth.com/mod/entityculling)  
+- [Fabric API](https://modrinth.com/mod/fabric-api)  
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)  
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)  
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)  
+- [Freelook](https://modrinth.com/mod/freelook)  
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)  
+- [Indium](https://modrinth.com/mod/indium)  
+- [Iris Shaders](https://modrinth.com/mod/iris)  
+- [Krypton](https://modrinth.com/mod/krypton)  
+- [Language Reload](https://modrinth.com/mod/language-reload)  
+- [LazyDFU](https://modrinth.com/mod/lazydfu)  
+- [Lithium](https://modrinth.com/mod/lithium)  
+- [Mod Menu](https://modrinth.com/mod/modmenu)  
+- [Modern UI](https://modrinth.com/mod/modern-ui)  
+- [ModernFix](https://modrinth.com/mod/modernfix)  
+- [More Chat History](https://modrinth.com/mod/morechathistory)  
+- [More Culling](https://modrinth.com/mod/moreculling)  
+- [Noisium](https://modrinth.com/mod/noisium)  
+- [OptiGUI](https://modrinth.com/mod/optigui)  
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  
+- [Remove Reloading Screen](https://modrinth.com/mod/rrls)  
+- [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard)  
+- [Sodium](https://modrinth.com/mod/sodium)  
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra)  
+- [Very Many Players](https://modrinth.com/mod/vmp-fabric)  
+- [Who am I?](https://modrinth.com/mod/whoami)  
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl)  
+- [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)  
+- [Zoomify](https://modrinth.com/mod/zoomify)  
+
 </details>
