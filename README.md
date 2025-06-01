@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.modrinth.com/data/cached_images/c0562d2c64eeb7b4cd91ac2a3031ec461569ef2f.png" alt="OptiMax" />
-  <br/>
+![WelnoX](https://cdn.modrinth.com/data/cached_images/ea166c9ca8ece97a30351822ac16ea5d9e93af2b.png)
   <img src="https://cdn.modrinth.com/data/cached_images/55e73a1afb2405b6f5250253b8b3cf7a983cb4af.png" alt="Max Out" />
 </p>
 
@@ -8,11 +6,11 @@
 
 ### ⚡️ **Optimize Your Gameplay. Max It Out.**
 Tired of lag, stutters, and annoying frame drops?  
-**OptiMax** is your all-in-one **performance-focused modpack** designed to deliver buttery smooth gameplay — without sacrificing the vanilla Minecraft feel.
+**WelnoX** is your all-in-one **performance-focused modpack** designed to deliver buttery smooth gameplay — without sacrificing the vanilla Minecraft feel.
 
 ---
 
-### 📌 **What is OptiMax?**
+### 📌 **What is WelnoX?**
 A lightweight and compatible modpack engineered to:
 - 🔼 **Boost FPS**
 - 🧠 **Reduce memory usage**
@@ -25,6 +23,15 @@ A lightweight and compatible modpack engineered to:
 ✅ **Minecraft Loader & Versions:**  
 - Full support for all listed versions  
 - 🔧 Updates maintained from **1.21.4** onward only
+
+---
+
+### 🚀 Sodium vs Vulkan Version
+After testing both versions, **I personally prefer the _Vulkan version_**.  
+Why? Because on my system, **I get nearly _2× more FPS_** compared to the standard **Sodium** build.  
+That said, **performance may vary** depending on your hardware.
+
+> 📝 **Note:** This is a matter of personal preference — some users may experience better results with Sodium. It's worth trying both to see what works best for you.
 
 ---
 
