@@ -66,7 +66,7 @@ That said, **performance may vary** depending on your hardware.
 ---
 
 ### 📥 **Ready to level up your gameplay?**  
-👉 **[Download OptiMax Now](https://modrinth.com/modpack/woptimax/versions)** and feel the difference instantly.
+👉 **[Download WelnoX Now](https://modrinth.com/modpack/welnox/versions)** and feel the difference instantly.
 
 ---
 
